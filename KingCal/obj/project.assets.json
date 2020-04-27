@@ -1891,11 +1891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darks\\Desktop\\WebApplication1\\KingCal\\KingCal.csproj",
+      "projectUniqueName": "C:\\repositories\\kingcal-kitchen-hub\\KingCal\\KingCal.csproj",
       "projectName": "KingCal",
-      "projectPath": "C:\\Users\\darks\\Desktop\\WebApplication1\\KingCal\\KingCal.csproj",
+      "projectPath": "C:\\repositories\\kingcal-kitchen-hub\\KingCal\\KingCal.csproj",
       "packagesPath": "C:\\Users\\darks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darks\\Desktop\\WebApplication1\\KingCal\\obj\\",
+      "outputPath": "C:\\repositories\\kingcal-kitchen-hub\\KingCal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darks\\AppData\\Roaming\\NuGet\\NuGet.Config",

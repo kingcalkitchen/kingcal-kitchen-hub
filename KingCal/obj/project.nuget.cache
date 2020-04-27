@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKCzOijXtTN2z/CMMo7isuwOv1rs0wdPHXUh+n69P3X2leboG2w74lRhX13nHZyZuOB/5ncl7fMAuvigRPkP/A==",
+  "dgSpecHash": "7cpwhD3CqxIbsWizkKOcuIZmAxIVihpTJv6yCRjXWVFU2iTiSNvjbCahz5zYZkqSUOHpmnYtX4aPHjxi3K/JXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\darks\\Desktop\\WebApplication1\\KingCal\\KingCal.csproj",
+  "projectFilePath": "C:\\repositories\\kingcal-kitchen-hub\\KingCal\\KingCal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darks\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\darks\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
